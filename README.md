@@ -28,4 +28,4 @@ This    app provides basic functionality for user registration and login.
 
 ## APK Download
 The APK file for installation is available under the Releases section.
-https://github.com/Saloni-Shahare/LoginRegisterKotlin/raw/main/release/app-debug-androidTest.apk
+
